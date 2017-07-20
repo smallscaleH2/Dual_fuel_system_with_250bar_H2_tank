@@ -7,8 +7,13 @@ A flexible-fuel system which contains both a liquid fuel tank and a hydrogen fue
 * use the liquid fuel (butanol, ethanol, ...) to cover long distances with it (liquid fuels have far greater energy in them than hydrogen compressed at 250 bar has)
 * use the hydrogen tank for driving in cities (which is useful as this fuel generates no toxic exhaust gases, which could potentially harm citizens in these cities)
 
+For the distance you can cover with the 3 gallon hydrogen tank:
+The energy in this H2 tank is 11,35 kWh or hence 96 % of the energy in a 1 liter gasoline tank
+This 11,35 liter (=3 gallon) tank will bring you, at a fuel consumption of 6 liter gasoline/100 km, 16 km far.
+Calculation: (100/6) x 0,96 = 16
+
 WORK OUT
 Only gasoline engines are suitable to run on hydrogen (as these have a spark plug, whereas Diesel engines do not). 
 As such, the fuel in the other tank (liquid) also needs to be of a type that can be used in a gasoline engine (i.e. gasoline, butanol, ethanol).
 The fuel can be switched by means of a control panel that changes the air/fuel ratio (and sometimes spark plug timing) or 
-by using a combination of a spark plug and a carburator (in which both use a different fuel and of which only one can operate at a given time). 
+by using a combination of a spark plug and a carburator (in which both use a different fuel and of which only one can operate at a given time).
