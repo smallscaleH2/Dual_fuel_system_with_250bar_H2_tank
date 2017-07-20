@@ -20,6 +20,17 @@ WORK OUT
 Only gasoline engines are suitable to run on hydrogen (as these have a spark plug, whereas Diesel engines do not). 
 As such, the fuel in the other tank (liquid) also needs to be of a type that can be used in a gasoline engine (i.e. gasoline, butanol, ethanol).
 The fuel can be switched by means of a user-operatable control panel. This control panel connects to the ECU and will change the air/fuel ratio (and sometimes spark plug timing) 
-depending on what fuel is selected on the control panel. The ECU will change the air/fuel ratio via the solenoid fuel injector (direct injection).
+depending on what fuel is selected on the control panel. The ECU will change the air/fuel ratio via the solenoid fuel injector (direct injection). With this method,
+the solenoid fuel injector will thus connect both to a hydrogen tank and a liquid fuel tank. Only 1 fuel line will be open at any given time (the other line will be closed automatically using a valve).
 
-Another method that in which to achieve the fuel switching is by using a combination of a solenoid fuel injector and a carburator (in which both use a different fuel and of which only one can operate at a given time).
+Another method that in which to achieve the fuel switching is by using a combination of a solenoid fuel injector and a carburator (in which both connect to a different fuel tank and of which only one can operate at a given time).
+
+On the hydrogen tank-line, there will be following components:
+tank - pressure reducer - bubbler - internal combustion engine
+This, out of safety reasons.
+
+Notes:
+The air/fuel ratio's are:
+* 9:1 for ethanol
+* 14,7:1 for butanol/gasoline
+* 34,3:1 for hydrogen
