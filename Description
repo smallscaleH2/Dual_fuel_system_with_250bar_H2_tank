@@ -23,7 +23,7 @@ The fuel can be switched by means of a user-operatable control panel. This contr
 depending on what fuel is selected on the control panel. The ECU will change the air/fuel ratio via the solenoid fuel injector (direct injection). With this method,
 the solenoid fuel injector will thus connect both to a hydrogen tank and a liquid fuel tank. Only 1 fuel line will be open at any given time (the other line will be closed automatically using a valve).
 
-Another method that in which to achieve the fuel switching is by using a combination of a solenoid fuel injector and a carburator (in which both connect to a different fuel tank and of which only one can operate at a given time).
+Another method in which we can achieve the fuel switching is by using a combination of a solenoid fuel injector and a carburetor (in which both connect to a different fuel tank and of which only one can operate at a given time).
 
 On the hydrogen tank-line, there will be following components:
 tank - pressure reducer - bubbler - internal combustion engine
