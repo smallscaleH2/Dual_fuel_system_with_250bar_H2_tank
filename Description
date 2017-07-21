@@ -1,9 +1,9 @@
-This document describes the creation of a flexible-fuel system which contains at least one 250 bar hydrogen tank.
+This document describes the creation of a dual-fuel system which contains at least one 250 bar hydrogen tank.
 Besides the 250 bar hydrogen tank -which will often be a 3 gallon (type 1) CNG tank-, a liquid fuel tank is often added. 
 This liquid fuel can be gasoline or biofuel (butanol, ethanol, ...).
 
 USE
-A flexible-fuel system which contains both a liquid fuel tank and a hydrogen fuel tank has the benefit that it can:
+A dual-fuel system which contains both a liquid fuel tank and a hydrogen fuel tank has the benefit that it can:
 * use the liquid fuel (butanol, ethanol, ...) to cover long distances with it (liquid fuels have far greater energy in them than hydrogen compressed at 250 bar has)
 * use the hydrogen tank for driving in cities (which is useful as this fuel generates no toxic exhaust gases, which could potentially harm citizens in these cities)
 
@@ -12,7 +12,7 @@ The energy in this H2 tank is 11,35 kWh or hence 96 % of the energy in a 1 liter
 This 11,35 liter (=3 gallon) tank will bring you, at a fuel consumption of 6 liter gasoline/100 km, 16 km far.
 Calculation: (100/6) x 0,96 = 16
 
-Another benefit is that the flexible-fuel H2 system (compared to a regular H2 system) allows you to limit the use of hydrogen to a minimum
+Another benefit is that the dual-fuel H2 system (compared to a regular H2 system) allows you to limit the use of hydrogen to a minimum
 (to just where it's needed, i.e. cities). Liquid fuels (like ethanol and butanol) can be made using carbon-neutral (or even carbon-negative) production techniques,
 whereas hydrogen can never be made in a carbon-neutral (or carbon-negative) way. So wherever liquid fuels can be used, they should be.
 
