@@ -17,7 +17,7 @@ Another benefit is that the dual-fuel H2 system (compared to a regular H2 system
 whereas hydrogen can never be made in a carbon-neutral (or carbon-negative) way. So wherever liquid fuels can be used, they should be.
 
 WORK OUT
-Only gasoline engines are suitable to run on hydrogen (as these have a spark plug, whereas Diesel engines do not). 
+Only (4-stroke) gasoline engines are suitable to run on hydrogen (as these have a spark plug, whereas Diesel engines do not). 
 As such, the fuel in the other tank (liquid) also needs to be of a type that can be used in a gasoline engine (i.e. gasoline, butanol, ethanol).
 The fuel can be switched by means of a user-operatable control panel. This control panel connects to the ECU and will change the air/fuel ratio (and sometimes spark plug timing) 
 depending on what fuel is selected on the control panel. The ECU will change the air/fuel ratio via the solenoid fuel injector (direct injection). With this method,
