@@ -1,0 +1,6 @@
+Regarding the direct injection system:
+the gasoline engine shown is a 4-cylinder engine; as such, 4 solenoid injector valves are needed (indicated by the numbers 1 to 4)
+
+Regarding the carburator system:
+a special carburator system such as the lovatogas (see http://www.lovatogas.com/php/eng/cng_systems/ ) 
+or the grimhall (see http://cngstore.grimhall.com/cng-conversion-kits/) might be needed
