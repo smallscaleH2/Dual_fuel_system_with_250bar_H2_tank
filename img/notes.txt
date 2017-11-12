@@ -1,6 +1,12 @@
 Regarding the direct injection system:
 the gasoline engine shown is a 4-cylinder engine; as such, 4 solenoid injector valves are needed (indicated by the numbers 1 to 4)
 
+regarding the control panel / air/fuel mix display & buttons (present in both the direct injection and carburator/DI system):
+the control panel allows to operate solenoid valve A and solenoid valve B to completely open or close either fuel line.
+Only one fuel line is allowed to be opened at a given time.
+the air/fuel mix display shows the current air/fuel ratio; and "up" and "down" button is present next to it 
+allowing the air/fuel mixture to be set leaner or richer.
+
 Regarding the carburator system:
 a special carburator system such as the lovatogas (see http://www.lovatogas.com/php/eng/cng_systems/ ) 
 or the grimhall (see http://cngstore.grimhall.com/cng-conversion-kits/) might be needed
