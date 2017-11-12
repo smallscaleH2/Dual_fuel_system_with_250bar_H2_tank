@@ -4,7 +4,7 @@ This liquid fuel can be gasoline or biofuel (butanol, ethanol, ...).
 
 USE
 A dual-fuel system which contains both a liquid fuel tank and a hydrogen fuel tank has the benefit that it can:
-* use the liquid fuel (butanol, ethanol, ...) to cover long distances with it (liquid fuels have far greater energy in them than hydrogen compressed at 250 bar has)
+* use the liquid fuel (butanol, ethanol, gasoline, ...) to cover long distances with it (liquid fuels have far greater energy in them than hydrogen compressed at 250 bar has)
 * use the hydrogen tank for driving in cities (which is useful as this fuel generates no toxic exhaust gases, which could potentially harm citizens in these cities)
 
 For the distance you can cover with the 3 gallon hydrogen tank:
@@ -19,11 +19,11 @@ whereas hydrogen can never be made in a carbon-neutral (or carbon-negative) way.
 WORK OUT
 Only (4-stroke) gasoline engines are suitable to run on hydrogen (as these have a spark plug, whereas Diesel engines do not). 
 As such, the fuel in the other tank (liquid) also needs to be of a type that can be used in a gasoline engine (i.e. gasoline, butanol, ethanol).
-The fuel can be switched by means of a user-operatable control panel. This control panel connects to the ECU and will change the air/fuel ratio (and sometimes spark plug timing) 
-depending on what fuel is selected on the control panel. The ECU will change the air/fuel ratio via the solenoid fuel injector (direct injection). With this method,
-the solenoid fuel injector will thus connect both to a hydrogen tank and a liquid fuel tank. Only 1 fuel line will be open at any given time (the other line will be closed automatically using a valve).
+The fuel can be switched by means of a user-operatable control panel. This control panel also contains an air/fuel mix ratio display with buttons and connects to a speeduino (which itself connects to the ECU). The buttons allow to change the air/fuel ratio (and sometimes spark plug timing) from inside the car.
+The speeduin/ECU will change the air/fuel ratio via the solenoid fuel injectors (direct injection). 
+With this method, the solenoid fuel injectors are hence used with either fuel used (hydrogen from hydrogen tank or gasoline/E100/E85/biobutanol/... in the liquid fuel tank). Only 1 fuel line will be open at any given time (the other line will be closed automatically using a valve).
 
-Another method in which we can achieve the fuel switching is by using a combination of a solenoid fuel injector and a carburetor (in which both connect to a different fuel tank and of which only one can operate at a given time).
+Another method in which we can achieve the fuel switching is by using a combination of a solenoid fuel injector and a carburetor.
 
 On the hydrogen tank-line, there will be following components:
 tank - pressure reducer - bubbler - internal combustion engine
