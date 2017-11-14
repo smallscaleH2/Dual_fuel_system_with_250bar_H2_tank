@@ -19,8 +19,8 @@ whereas hydrogen can never be made in a carbon-neutral (or carbon-negative) way.
 WORK OUT
 Only (4-stroke) gasoline engines are suitable to run on hydrogen (as these have a spark plug, whereas Diesel engines do not). 
 As such, the fuel in the other tank (liquid) also needs to be of a type that can be used in a gasoline engine (i.e. gasoline, butanol, ethanol).
-The fuel can be switched by means of a user-operatable control panel. This control panel also contains an air/fuel mix ratio display with buttons and connects to a speeduino (which itself connects to the ECU). The buttons allow to change the air/fuel ratio (and sometimes spark plug timing) from inside the car.
-The speeduin/ECU will change the air/fuel ratio via the solenoid fuel injectors (direct injection). 
+The fuel can be switched by means of a user-operatable control panel. This control panel also contains an air/fuel mix ratio display with buttons and connects to a speeduino (which replaced the old ECU). The buttons allow to change the air/fuel ratio (and sometimes spark plug timing) from inside the car.
+The speeduino will change the air/fuel ratio via the solenoid fuel injectors (direct injection). 
 With this method, the solenoid fuel injectors are hence used with either fuel used (hydrogen from hydrogen tank or gasoline/E100/E85/biobutanol/... in the liquid fuel tank). Only 1 fuel line will be open at any given time (the other line will be closed automatically using a valve).
 
 Another method in which we can achieve the fuel switching is by using a combination of a solenoid fuel injector and a carburetor.
