@@ -4,13 +4,13 @@ the speeduino completely replaces the old ECU and is itself able to:
 - ignite the spark plugs and/or change the spark plug timing
 - control the solenoid valves (amount of fuel injected per combustion and/or change the fuel injection timing per solenoid valve) 
 
-regarding the control panel / air/fuel mix display & buttons (present in both the direct injection and carburator/DI system):
+regarding the control panel (present in both the direct injection and carburetor/DI system):
 the control panel allows to operate solenoid valve A and solenoid valve B to completely open or close either fuel line.
 Only one fuel line is allowed to be opened at a given time.
 the air/fuel mix display shows the current air/fuel ratio; and "up" and "down" button is present next to it 
 allowing the air/fuel mixture to be set leaner or richer.
 
-Regarding the carburator version:
-the carburator version is obviously NOT a dual-fuel system, rather it's a single-fuel system 
-a special carburator system such as the lovatogas (see http://www.lovatogas.com/php/eng/cng_systems/ ) 
+Regarding the carburetor version:
+the carburetor version is obviously NOT a dual-fuel system, rather it's a single-fuel system 
+a special carburetor system such as the lovatogas (see http://www.lovatogas.com/php/eng/cng_systems/ ) 
 or the grimhall (see http://cngstore.grimhall.com/cng-conversion-kits/) might be needed
