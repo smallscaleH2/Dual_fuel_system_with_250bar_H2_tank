@@ -5,7 +5,7 @@ This liquid fuel can be gasoline or biofuel (butanol, ethanol, ...).
 USE
 A dual-fuel system which contains both a liquid fuel tank and a hydrogen fuel tank has the benefit that it can:
 * use the liquid fuel (butanol, ethanol, gasoline, ...) to cover long distances with it (liquid fuels have far greater energy in them than hydrogen compressed at 250 bar has)
-* use the hydrogen tank for driving in cities (which is useful as this fuel generates no toxic exhaust gases, which could potentially harm citizens in these cities)
+* use the hydrogen tank for driving in cities and for entering underground car parks (which is useful as this fuel generates no toxic exhaust gases, which could potentially harm citizens in these cities)
 
 For the distance you can cover with the 3 gallon hydrogen tank:
 The energy in this H2 tank is 8,51 kWh or hence 96 % of the energy in a 1 liter gasoline tank
